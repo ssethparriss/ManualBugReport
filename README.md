@@ -12,8 +12,11 @@
 - **Summary**: When I click on the item and read the description, I see dev code in the description instead of the item name.  
 - **URL**: https://www.saucedemo.com/inventory-item.html?id=4
 - **Screenshot**: [Imgur](https://imgur.com/oQfxHjJ)
-
----
+<p align="center">
+Dev code is shown in item description: <br/>
+<img src="https://i.imgur.com/oQfxHjJ.png" height="80%" width="80%" alt="Dev code is shown in item description"/>
+<br />
+<br />
 
 ## Environment
 - **Platform**: Macintosh  
