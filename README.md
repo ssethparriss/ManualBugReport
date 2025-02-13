@@ -17,23 +17,28 @@
 
 ## Environment
 - **Platform**: Macintosh  
-- **Operating System**: OS X 10.12.0  
-- **Browser**: Chrome 53
+- **Operating System**: OS X 15.3  
+- **Browser**: Brave 1.75
 
 ---
 
 ## Bug Details
 ### Steps to Reproduce:
-1. Add any item to cart  
-2. Go to product "abc" via the search bar  
-3. Add new item to cart via "Add to Cart" button (see screenshot)  
-4. Go to cart
+1. Login as standard user on https://www.saucedemo.com/
+ 
+     Credentials:
+   
+    standard_user
+   
+    secret_sauce 
+3. Go to product "Sauce Labs Backpack"  
+4. Observe dev code is shown in item description
 
 ### Expected Result:
-- The cart should contain 2 items.
+- Item description should accurately reflect item name, and not show code.
 
 ### Actual Result:
-- The cart contains only 1 item.
+- Item description does not accurately reflect item name, and shows code.
 
 ---
 
@@ -45,4 +50,4 @@
 ---
 
 ## Notes
-- **Notes**: /
+- **Notes**: Also happens in firefox.
