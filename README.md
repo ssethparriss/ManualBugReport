@@ -1,17 +1,17 @@
-# Bug Report: CART - Unable to add new item to my cart
+# Bug Report: Item Details Page - Dev code is shown in item description
 
 ## Bug ID
 - **ID Number**: #123  
-- **Title**: CART - Unable to add new item to my cart  
-- **Reporter**: Mike A.  
-- **Submit Date**: 03/04/16
+- **Title**: Item Details Page - Dev code is shown in item description
+- **Reporter**: Seth P.  
+- **Submit Date**: 02.10.25
 
 ---
 
 ## Bug Overview
-- **Summary**: When my cart contains one item, I am unable to add a second item via the "Add to Cart" button, on any product page.  
-- **URL**: [www.example.com/product/abc](http://www.example.com/product/abc)  
-- **Screenshot**: ![Screenshot](http://www.example.com/screenshot123)
+- **Summary**: When I click on the item and read the description, I see dev code in the description instead of the item name.  
+- **URL**: https://www.saucedemo.com/inventory-item.html?id=4
+- **Screenshot**: [Imgur](https://imgur.com/oQfxHjJ)
 
 ---
 
